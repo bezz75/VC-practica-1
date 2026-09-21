@@ -7,7 +7,7 @@
 
 ## Descripción
 
-Este repositorio contiene el cuaderno `VC_P1M.ipynb`, correspondiente a la primera práctica de Visión por Computador.
+Este repositorio contiene el cuaderno `VC_P1.ipynb`, correspondiente a la primera práctica de la asignatura Visión por Computador.
 
 El cuaderno incluye:
 
